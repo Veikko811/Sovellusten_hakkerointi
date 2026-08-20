@@ -37,12 +37,12 @@ SECTION HEADER #2
 https://en.wikipedia.org/wiki/Portable_Executable
 https://learn.microsoft.com/fi-fi/cpp/build/reference/dumpbin-command-line?view=msvc-170
 
-
+ 
 int add(int a, int b)
 {
   return a + b;
 }
-
+ 
 int main()
 {
   int numero = 100;
