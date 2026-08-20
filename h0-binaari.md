@@ -44,8 +44,8 @@ int add(int a, int b)
 }
  
 int main()
-{
-  int numero = 100;
-  int testi = 3000;
-  int vastaus = add(numero, testi);
-}
+ {
+   int numero = 100;
+   int testi = 3000;
+   int vastaus = add(numero, testi);
+ }
