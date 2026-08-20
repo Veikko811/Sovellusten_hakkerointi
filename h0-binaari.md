@@ -1,6 +1,8 @@
 # h0 - Compile and analyze
 
-Aloitin tehtävän avaamalla visual studio code sovelluksen. Loin tiedoston nimeltä main.cpp ja lisäsin ohjelman aloituspisteen. Ohjelmassa on yksi funktio, joka lisää kaksi kokonaislukua ja palauttaa uuden kokonaisluvun takaisin. Tämän jälkeen suoritin Microsoftin compiler options työkalun, joka kääntää ja yhdistää objektitiedostot yhteen suoritettavaan tiedostoon. Ohjelma loi tiedoston nimeltä main.exe kansioon. Analysoin binaari tiedostoa komennolla dumpbin. Komento dumpbin /headers tuottaa suoritettavan tiedoston ylätunnisteet, jotka sisältävät tietoa ohjelman konekoodin ja datan sijainnista sekä niiden ominaisuuksista. Alla on esimerkki syötteestä:
+Aloitin tehtävän avaamalla visual studio code sovelluksen. Loin tiedoston nimeltä main.cpp ja lisäsin ohjelman aloituspisteen. Ohjelmassa on yksi funktio, joka lisää kaksi kokonaislukua ja palauttaa uuden kokonaisluvun takaisin. Tämän jälkeen suoritin Microsoftin compiler options työkalun, joka kääntää ja yhdistää objektitiedostot yhteen suoritettavaan tiedostoon. Ohjelma loi tiedoston nimeltä main.exe kansioon. Analysoin binaari tiedostoa komennolla dumpbin. Komento dumpbin /headers tuottaa suoritettavan tiedoston ylätunnisteet, jotka sisältävät tietoa ohjelman konekoodin ja datan sijainnista sekä niiden ominaisuuksista. 
+
+Alla on esimerkki syötteestä:
 
 SECTION HEADER #1
 .textbss name
