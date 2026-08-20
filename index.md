@@ -1,4 +1,1 @@
-# Sovellusten hakkerointi
-
-## Tehtävät
 - [H0 - Compile and Analyze](h0-binaari)
