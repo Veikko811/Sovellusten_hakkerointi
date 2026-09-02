@@ -1,2 +1,3 @@
 - [H0 - Compile and Analyze](h0-binaari)
 - [H1 - Freedom of Action, Control, and Risk Mitigation](h1)
+- [H2 - Break & Unbreak](h2)
