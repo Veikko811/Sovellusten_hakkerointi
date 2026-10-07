@@ -3,3 +3,4 @@
 - [H2 - Break & Unbreak](h2)
 - [H5 - Binääri tässä, missä koodit?](h5)
 - [H6 - Onkohan tämä turvallinen käyttää?](h6)
+- [H4 - Some disassembly required](h4)
